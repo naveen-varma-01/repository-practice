@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+}
+
+.avatar {
+  height: 100px;
+}
+
+.icon {
+  height: 24px;
+}
+
+.img-cont {
+  display: flex;
+}
+
+.pink {
+  color: #e73959;
+}

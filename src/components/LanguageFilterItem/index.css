@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+}
+
+.button {
+  background-color: transparent;
+  border: 0px;
+  color: #0f172a;
+}
